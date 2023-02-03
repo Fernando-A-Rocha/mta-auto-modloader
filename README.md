@@ -71,7 +71,7 @@ Several mods are also included for testing purposes:
 
 ## Acknowledgements
 
-Thank you @Haxardous for the inspiration and for helping with testing the resource.
+Thank you [@Haxardous](https://github.com/Haxardous) for the inspiration and for helping with testing the resource.
 
 ## Final Note
 
