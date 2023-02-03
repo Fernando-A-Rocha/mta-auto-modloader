@@ -11,7 +11,7 @@ Automatic Mod Loader for Multi Theft Auto: San Andreas:
 
 ## Support/Help
 
-MTA forum topic: Link (**TODO**)
+MTA forum topic: [Link](https://forum.multitheftauto.com/topic/139643-rel-automatic-mod-loader/)
 
 If you need help with anything related to this project, please read the corresponding section on the MTA forum thread linked above.
 
