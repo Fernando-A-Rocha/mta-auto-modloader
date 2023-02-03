@@ -73,6 +73,11 @@ Several mods are also included for testing purposes:
 
 Thank you [@Haxardous](https://github.com/Haxardous) for the inspiration and for helping with testing the resource.
 
+## Related Projects
+
+- [mta-mod-downloader](https://github.com/Fernando-A-Rocha/mta-mod-downloader#readme): mod downloader system with GUI which supports **NandoCrypt**
+- [mta-add-models](https://github.com/Fernando-A-Rocha/mta-add-models#readme): a library for adding new models (vehicles, skins, etc) to your server which also supports **NandoCrypt**
+
 ## Final Note
 
 Feel free to contribute to the project by improving the code & documentation via Pull Requests. Thank you!
